@@ -1,0 +1,23 @@
+{
+  "name": "agent-infra-neuro-edge-worker-test-35z",
+  "version": "1.0.0",
+  "description": "Serverless compute platform",
+  "type": "module",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js",
+    "test": "node --test"
+  },
+  "keywords": [
+    "ai",
+    "agent",
+    "infrastructure",
+    "neuro-edge-worker-test-35z"
+  ],
+  "author": "Yoshi Kondo <yoshi@musicailab.com>",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/yksanjo/agent-infra-neuro-edge-worker-test-35z.git"
+  }
+}
